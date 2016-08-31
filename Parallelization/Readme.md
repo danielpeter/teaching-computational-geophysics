@@ -54,11 +54,14 @@ How to parallelize a code, or make use of multi- and many-core architectures? He
 
   SIMD (single instruction multiple data) memory, many-core architectures
 
-  CUDA as multi-threading language, indexed array accesses in C programming
+  **CUDA** as multi-threading language, indexed array accesses in C programming
   alternatives: acceleration directives !$ACC or compiler based PGI function calls
 
   *Software requirements:*  
   - NVIDIA CUDA http://developer.nvidia.com/cuda-downloads
+
+  **OpenCL** as a standard for parallel programming of heterogeneous systems:  
+    https://www.khronos.org/opencl/
 
 
 - different language extensions

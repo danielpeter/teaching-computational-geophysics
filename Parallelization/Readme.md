@@ -63,8 +63,11 @@ How to parallelize a code, or make use of multi- and many-core architectures? He
 
 - different language extensions
 
-  Cilk as C extension for multi threading:
+  **Cilk** as C extension for multi threading:  
     http://software.intel.com/en-us/articles/intel-cilk-plus/
 
-  Co-array as Fortran extension mainly on Cray machines:
+  **Co-array** as Fortran extension mainly on Cray machines:  
     http://caf.rice.edu/
+
+  **Chapel** as new parallel programming language (resembles C) developed at Cray:  
+    http://chapel.cray.com

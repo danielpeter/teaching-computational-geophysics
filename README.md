@@ -18,7 +18,7 @@ The course offers hands-on lab experience in numerically solving partial differe
 - building 9, level 4, room 4137
 
 ### Instructor: Daniel Peter
-- building 1, office #0146  
+- KAUST building 1, office #0146  
 - daniel.peter@kaust.edu.sa
 
 The material in this repository is used for teaching purposes. You may reuse it freely to produce, share and build on knowledge - education is open to all.

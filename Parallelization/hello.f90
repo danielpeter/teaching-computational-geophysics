@@ -39,7 +39,7 @@ program hello
     sum = sum + C(i)
     isum = isum + 1
 
-    print *,'isum = ',isum
+    print *,'counter isum = ',isum,' A = ',A(i),'B = ',B(i),'A+B = ',C(i),'sum = ',sum
   enddo
   total_sum = sum
 

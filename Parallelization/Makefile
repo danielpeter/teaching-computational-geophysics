@@ -7,7 +7,9 @@ MPIF90=mpif90
 NVCC=nvcc
 
 # targets
-default: xhello xhello_thread xhello_openmp xhello_mpi xhello_cuda
+default: xhello
+
+parallel: xhello_thread xhello_openmp xhello_mpi xhello_cuda
 
 # initial, single threaded
 xhello: hello.f90

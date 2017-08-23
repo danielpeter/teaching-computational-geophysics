@@ -10,7 +10,8 @@ and applied to basic geophysical problems including heat flow and wave propagati
 
 The course offers hands-on lab experience in numerically solving partial differential equations relevant to geophysics.
 
-![Seismic wavefield snapshot for Kamchatka event](yt-kamchatka-specfem-comp.png){:width="400px"}
+<!-- ![Seismic wavefield snapshot for Kamchatka event](yt-kamchatka-specfem-comp.png) -->
+<img src="yt-kamchatka-specfem-comp.png" width="500" alt="Seismic wavefield snapshot for Kamchatka event">
 
 ### Time and Location
 

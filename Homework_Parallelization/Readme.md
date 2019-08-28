@@ -47,7 +47,7 @@ How to parallelize a code, or make use of multi- and many-core architectures? He
   message-passing schemes, both Fortran and C/C++
 
   *Software requirements:*  
-  - most cluster support, or install package e.g. http://www.open-mpi.org/  
+  - most cluster support, or install package e.g. https://www.open-mpi.org/  
 
 
 - **GPUs**
@@ -66,11 +66,14 @@ How to parallelize a code, or make use of multi- and many-core architectures? He
 
 - different language extensions
 
-  **Cilk** as C extension for multi threading:  
-    http://software.intel.com/en-us/articles/intel-cilk-plus/
+  **Cilk** as C extension for multi threading (deprecated by now):  
+   https://www.cilkplus.org
 
   **Co-array** as Fortran extension mainly on Cray machines:  
     http://caf.rice.edu/
 
   **Chapel** as new parallel programming language (resembles C) developed at Cray:  
-    http://chapel.cray.com
+    https://chapel-lang.org
+
+  **Julia** as a high-level programming language designed for high-performance numerical analysis and computational science:
+    https://julialang.org

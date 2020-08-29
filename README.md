@@ -15,8 +15,8 @@ The course offers hands-on lab experience in numerically solving partial differe
 
 ### Time and Location
 
-- Wed/Thu, 9:00 - 10:30
-- KAUST building 9, level 4, room 4140
+- Wed/Thu, 8:30 - 10:00
+- remote teaching class
 
 ### Instructor: Daniel Peter
 - KAUST building 1, office #0146  

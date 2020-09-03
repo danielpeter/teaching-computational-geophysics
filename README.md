@@ -34,11 +34,10 @@ Please feel free to join in the class at the time mentioned above, just send me 
 
 The video lectures so far:
 
-Lecture - welcome
-[![Lecture - welcome](https://img.youtube.com/vi/t_sJcFkU4Nc/0.jpg)](https://www.youtube.com/watch?v=t_sJcFkU4Nc)
-
-Lecture - 1 conservation of mass
-[![Lecture - 1](https://img.youtube.com/vi/t5EEzu8af0w/0.jpg)](https://www.youtube.com/watch?v=t5EEzu8af0w)
+| Lecture | youtube video |
+| ---     | ---           |
+| welcome | [![Lecture - welcome](https://img.youtube.com/vi/t_sJcFkU4Nc/0.jpg)](https://www.youtube.com/watch?v=t_sJcFkU4Nc) |
+| 1 - conservation of mass | [![Lecture - 1](https://img.youtube.com/vi/t5EEzu8af0w/0.jpg)](https://www.youtube.com/watch?v=t5EEzu8af0w) |
 
 
 hopefully more to come...

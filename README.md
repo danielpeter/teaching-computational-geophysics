@@ -39,6 +39,7 @@ The video lectures so far:
 | welcome | [![Lecture - welcome](https://img.youtube.com/vi/t_sJcFkU4Nc/0.jpg)](https://www.youtube.com/watch?v=t_sJcFkU4Nc) |
 | 1 - conservation of mass | [![Lecture - 1](https://img.youtube.com/vi/t5EEzu8af0w/0.jpg)](https://www.youtube.com/watch?v=t5EEzu8af0w) |
 | 2 - conservation of linear momentum | [![Lecture - 2](https://img.youtube.com/vi/YyveCceBnnA/0.jpg)](https://youtu.be/YyveCceBnnA) |
+| 3 - conservation of energy | [![Lecture - 3](https://img.youtube.com/vi/wnHyiKCyhgY/0.jpg)](https://youtu.be/wnHyiKCyhgY) | 
 
 embarassing, but hopefully more to come... :)
 

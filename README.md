@@ -41,6 +41,7 @@ The video lectures so far:
 | 2 - conservation of linear momentum | [![Lecture - 2](https://img.youtube.com/vi/YyveCceBnnA/0.jpg)](https://youtu.be/YyveCceBnnA) |
 | 3 - conservation of energy | [![Lecture - 3](https://img.youtube.com/vi/wnHyiKCyhgY/0.jpg)](https://youtu.be/wnHyiKCyhgY) | 
 | 4 - conservation of angular momentum | [![Lecture - 4](https://img.youtube.com/vi/KDoQP8OG6Hg/0.jpg)](https://youtu.be/KDoQP8OG6Hg) |
+| 5 - stability analysis | [![Lecture - 5](https://img.youtube.com/vi/-Yj-YNWeI7Q/0.jpg)](https://youtu.be/-Yj-YNWeI7Q) |
 
 
 embarassing, but hopefully more to come... :)

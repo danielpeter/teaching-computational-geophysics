@@ -42,6 +42,8 @@ The video lectures so far:
 | 3 - conservation of energy | [![Lecture - 3](https://img.youtube.com/vi/wnHyiKCyhgY/0.jpg)](https://youtu.be/wnHyiKCyhgY) | 
 | 4 - conservation of angular momentum | [![Lecture - 4](https://img.youtube.com/vi/KDoQP8OG6Hg/0.jpg)](https://youtu.be/KDoQP8OG6Hg) |
 | 5 - stability analysis | [![Lecture - 5](https://img.youtube.com/vi/-Yj-YNWeI7Q/0.jpg)](https://youtu.be/-Yj-YNWeI7Q) |
+| 6 - higher order finite-differences | [![Lecture - 6](https://img.youtube.com/vi/0PROf3lMFuo/0.jpg)](https://youtu.be/0PROf3lMFuo) |
+
 
 
 embarassing, but hopefully more to come... :)

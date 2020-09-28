@@ -46,6 +46,6 @@ The video lectures so far:
 
 
 
-embarassing, but hopefully more to come... :)
+embarrassing, but hopefully more to come... :)
 
 

@@ -43,7 +43,7 @@ The video lectures so far:
 | 4 - conservation of angular momentum | [![Lecture - 4](https://img.youtube.com/vi/KDoQP8OG6Hg/0.jpg)](https://youtu.be/KDoQP8OG6Hg) |
 | 5 - stability analysis | [![Lecture - 5](https://img.youtube.com/vi/-Yj-YNWeI7Q/0.jpg)](https://youtu.be/-Yj-YNWeI7Q) |
 | 6 - higher order finite-differences | [![Lecture - 6](https://img.youtube.com/vi/0PROf3lMFuo/0.jpg)](https://youtu.be/0PROf3lMFuo) |
-
+| 7 - pseudo-spectral method | [![Lecture - 7](https://img.youtube.com/vi/Gg3tPwuXVyg/0.jpg)](https://youtu.be/Gg3tPwuXVyg) |
 
 
 embarrassing, but hopefully more to come... :)

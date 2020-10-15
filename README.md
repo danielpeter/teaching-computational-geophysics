@@ -44,7 +44,8 @@ The video lectures so far:
 | 5 - stability analysis | [![Lecture - 5](https://img.youtube.com/vi/-Yj-YNWeI7Q/0.jpg)](https://youtu.be/-Yj-YNWeI7Q) |
 | 6 - higher order finite-differences | [![Lecture - 6](https://img.youtube.com/vi/0PROf3lMFuo/0.jpg)](https://youtu.be/0PROf3lMFuo) |
 | 7 - pseudo-spectral method | [![Lecture - 7](https://img.youtube.com/vi/Gg3tPwuXVyg/0.jpg)](https://youtu.be/Gg3tPwuXVyg) |
-| 8 - finite-element method I | [![Lecture - 8](https://img.youtube.com/vi/ejjlwzRTdw8/0.jpg)](https://youtu.be/ejjlwzRTdw8) |
+| 8 - finite-element method - part 1 | [![Lecture - 8](https://img.youtube.com/vi/ejjlwzRTdw8/0.jpg)](https://youtu.be/ejjlwzRTdw8) |
+| 9 - finite-element method - part 2 | [![Lecture - 9](https://img.youtube.com/vi/krXODiA2NWg/0.jpg)](https://youtu.be/krXODiA2NWg) |
 
 
 embarrassing, but hopefully more to come... :)

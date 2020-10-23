@@ -46,8 +46,9 @@ The video lectures so far:
 | 7 - pseudo-spectral method | [![Lecture - 7](https://img.youtube.com/vi/Gg3tPwuXVyg/0.jpg)](https://youtu.be/Gg3tPwuXVyg) |
 | 8 - finite-element method - part 1 | [![Lecture - 8](https://img.youtube.com/vi/ejjlwzRTdw8/0.jpg)](https://youtu.be/ejjlwzRTdw8) |
 | 9 - finite-element method - part 2 | [![Lecture - 9](https://img.youtube.com/vi/krXODiA2NWg/0.jpg)](https://youtu.be/krXODiA2NWg) |
+| 10 - finite-element method - part 3 | [![Lecture - 10](https://img.youtube.com/vi/gYrXuRqhkPY/0.jpg)](https://youtu.be/gYrXuRqhkPY) |
 
 
-embarrassing, but hopefully more to come... :)
+embarrassing, i'm speaking very slowly - but hopefully more to come... :)
 
 

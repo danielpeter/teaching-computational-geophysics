@@ -47,6 +47,7 @@ The video lectures so far:
 | 8 - finite-element method - part 1 | [![Lecture - 8](https://img.youtube.com/vi/ejjlwzRTdw8/0.jpg)](https://youtu.be/ejjlwzRTdw8) |
 | 9 - finite-element method - part 2 | [![Lecture - 9](https://img.youtube.com/vi/krXODiA2NWg/0.jpg)](https://youtu.be/krXODiA2NWg) |
 | 10 - finite-element method - part 3 | [![Lecture - 10](https://img.youtube.com/vi/gYrXuRqhkPY/0.jpg)](https://youtu.be/gYrXuRqhkPY) |
+| 11 - finite-element method - heat transfer | [![Lecture - 11](https://img.youtube.com/vi/nZAA8WURrwM/0.jpg)](https://youtu.be/nZAA8WURrwM) |
 
 
 embarrassing, i'm speaking very slowly - but hopefully more to come... :)

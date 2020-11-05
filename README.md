@@ -49,6 +49,7 @@ The video lectures so far:
 | 10 - finite-element method - part 3 | [![Lecture - 10](https://img.youtube.com/vi/gYrXuRqhkPY/0.jpg)](https://youtu.be/gYrXuRqhkPY) |
 | 11 - finite-element method - heat transfer | [![Lecture - 11](https://img.youtube.com/vi/nZAA8WURrwM/0.jpg)](https://youtu.be/nZAA8WURrwM) |
 | 12 - spectral-element method - part 1 | [![Lecture - 12](https://img.youtube.com/vi/DvXoLvJXbgE/0.jpg)](https://youtu.be/DvXoLvJXbgE) |
+| 13 - spectral-element method - part 2 | [![Lecture - 13](https://img.youtube.com/vi/xSJWqZ9wpqM/0.jpg)](https://youtu.be/xSJWqZ9wpqM) |
 
 
 embarrassing, i'm speaking very slowly and keep saying "basically"... - but hopefully more to come... :)

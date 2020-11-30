@@ -52,6 +52,10 @@ The video lectures so far:
 | 13 - spectral-element method - part 2 | [![Lecture - 13](https://img.youtube.com/vi/xSJWqZ9wpqM/0.jpg)](https://youtu.be/xSJWqZ9wpqM) |
 | 14 - spectral-element method - homework | [![Lecture - 14](https://img.youtube.com/vi/1Cf9TI3vCAs/0.jpg)](https://youtu.be/1Cf9TI3vCAs) |
 | 15 - spectral-element method - homework wave equation | [![Lecture - 15](https://img.youtube.com/vi/2pvPIMyzB54/0.jpg)](https://youtu.be/2pvPIMyzB54) |
+| 16 - spectral-element method - Newmark time scheme | [![Lecture - 16](https://img.youtube.com/vi/CwLP9D3doU0/0.jpg)](https://youtu.be/CwLP9D3doU0) |
+| 17 - class - summary and discussion | [![Lecture - 17](https://img.youtube.com/vi/jJ7IUez3uYI/0.jpg)](https://youtu.be/jJ7IUez3uYI) |
+| 18 - finite-volume method - part 1 | [![Lecture - 18](https://img.youtube.com/vi/iN5umWwwqj4/0.jpg)](https://youtu.be/iN5umWwwqj4) |
+
 
 
 embarrassing, i'm speaking very slowly and keep saying "basically"... - but hopefully more to come... :)

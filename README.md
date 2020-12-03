@@ -55,6 +55,7 @@ The video lectures so far:
 | 16 - spectral-element method - Newmark time scheme | [![Lecture - 16](https://img.youtube.com/vi/CwLP9D3doU0/0.jpg)](https://youtu.be/CwLP9D3doU0) |
 | 17 - class - summary and discussion | [![Lecture - 17](https://img.youtube.com/vi/jJ7IUez3uYI/0.jpg)](https://youtu.be/jJ7IUez3uYI) |
 | 18 - finite-volume method - part 1 | [![Lecture - 18](https://img.youtube.com/vi/iN5umWwwqj4/0.jpg)](https://youtu.be/iN5umWwwqj4) |
+| 19 - finite-volume method - part 2 | [![Lecture - 19](https://img.youtube.com/vi/NXI3V6rj4Uw/0.jpg)](https://youtu.be/NXI3V6rj4Uw) |
 
 
 

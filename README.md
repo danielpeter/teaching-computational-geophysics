@@ -28,10 +28,6 @@ The material in this repository is used for teaching purposes. You may reuse it 
 ### Current Content
 
 Whenever possible, we record these online classes and will provide them also as youtube videos.
-Please feel free to join in the class at the time mentioned above, just send me an email to make sure that I recognize you in the waiting room:
-
-[https://kaust.zoom.us/j/92849861020](https://kaust.zoom.us/j/92849861020)
-
 The video lectures so far:
 
 | Lecture | youtube video |
@@ -57,8 +53,10 @@ The video lectures so far:
 | 18 - finite-volume method - part 1 | [![Lecture - 18](https://img.youtube.com/vi/iN5umWwwqj4/0.jpg)](https://youtu.be/iN5umWwwqj4) |
 | 19 - finite-volume method - part 2 | [![Lecture - 19](https://img.youtube.com/vi/NXI3V6rj4Uw/0.jpg)](https://youtu.be/NXI3V6rj4Uw) |
 | 20 - finite-volume method - wave equation | [![Lecture - 20](https://img.youtube.com/vi/EzUt0_155to/0.jpg)](https://youtu.be/EzUt0_155to) |
+| 21 - finite-volume method - wave equation 2 | [![Lecture - 21](https://img.youtube.com/vi/GjabyTO6LCs/0.jpg)](https://youtu.be/GjabyTO6LCs) |
 
 
-embarrassing, i'm speaking very slowly and keep saying "basically"... - but hopefully more to come... :)
+that's all for this semester. 
+quite embarrassing, i'm speaking very slowly and keep saying "basically" :) but hope you find some interesting pieces.
 
 

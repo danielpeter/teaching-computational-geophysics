@@ -15,8 +15,8 @@ The course offers hands-on lab experience in numerically solving partial differe
 
 ### Time and Location
 
-- Sun/Thu, 15:00 - 16:30 KAUST time
-- remote teaching class
+- Wed/Thu, 8:30 - 10:00 KAUST time
+- in-person teaching, KAUST Bld 9 room 2120
 
 ### Instructor: Daniel Peter
 - KAUST building 1, office #0146  
@@ -27,8 +27,8 @@ The material in this repository is used for teaching purposes. You may reuse it 
 
 ### Current Content
 
-Whenever possible, we record these online classes and will provide them also as youtube videos.
-The video lectures so far:
+During the pandemic year 2020, we recorded the online classes. They are provided below as youtube videos.
+The video lectures are:
 
 | Lecture | youtube video |
 | ---     | ---           |
@@ -56,7 +56,6 @@ The video lectures so far:
 | 21 - finite-volume method - wave equation 2 | [![Lecture - 21](https://img.youtube.com/vi/GjabyTO6LCs/0.jpg)](https://youtu.be/GjabyTO6LCs) |
 
 
-that's all for this semester. 
-quite embarrassing, i'm speaking very slowly and keep saying "basically" :) but hope you find some interesting pieces.
+that's all. the videos are quite embarrassing, i'm speaking very slowly and keep saying "basically" :) but I hope you find some interesting bits and pieces.
 
 

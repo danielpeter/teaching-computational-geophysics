@@ -1,0 +1,63 @@
+\documentclass[11pt,titlepage,fleqn]{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{latexsym}
+\usepackage[round]{natbib}
+\usepackage{xspace}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{bm}
+\usepackage{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%       SPACING COMMANDS (Latex Companion, p. 52)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% page spacing
+\usepackage{setspace}
+\renewcommand{\baselinestretch}{1.5}
+\textwidth 444pt \textheight 660pt
+\oddsidemargin 15pt \evensidemargin 15pt
+\headsep -20pt \headheight 0pt \hoffset 0pt \voffset 0pt
+
+% no text indent
+\setlength\parindent{0pt}
+
+% font sans serif
+\renewcommand{\familydefault}{\sfdefault}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+\Large {\bf Computational Geophysics - Homework **}\\
+\today
+\end{center}
+
+\vspace{3cm}
+
+This is just a simple LaTex template example to get you started with writing the homework reports. \\
+
+Put your report here...\\
+
+
+%% example
+\section*{Problem 1}
+
+In the following, I use a discretization of the problem with pressure $P({\bf x},t)$ as:
+\begin{eqnarray*}
+P^n_{i,j}  	& \equiv & P(x=i \times \Delta x, y=j \times \Delta y, t=n \times dt) \\
+ 				& \equiv & P(i,j,n)\\
+\end{eqnarray*}
+The discretized form of the equation of motion then becomes...\\
+
+
+\section*{Simulation Results}
+Note that in the code I choose $\Delta x=\Delta y$ for simplicity. ..
+
+
+%\includegraphics[width=1.\textwidth]{./figures-homogeneous/6.jpg}
+
+\end{document}
